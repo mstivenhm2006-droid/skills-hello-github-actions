@@ -15,7 +15,7 @@ env:
 
 jobs:
   start_exercise:
-    name: Start Exercise
+    name: Pedritoo
     uses: skills/exercise-toolkit/.github/workflows/start-exercise.yml@v0.8.1
     with:
       exercise-title: "Hello GitHub Actions"
